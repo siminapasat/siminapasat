@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-🔭 I’m Simina and I lead the Special Projects team at GitHub, a lovely team of wonderful PMs & engineers. We like to ship often (and I mean _often_) and we are on a mission to make GitHub more delightful to ALL developers. 🥷 
+🔭 I’m Simina and I lead the Code & Experiences PM team at GitHub. I care about beatiful user experiences, leading high-performing teams with kindness, and having clear priorities.
 
 🌱 I’m currently learning about leading inter-disciplinary teams, living a more fulfilling life and managing toddler tantrums.
 
